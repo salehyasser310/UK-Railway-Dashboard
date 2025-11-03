@@ -37,6 +37,15 @@ To empower UK rail operators with a 360° view of revenue, punctuality, customer
 
 ## Dashboard Overview
 <img width="1283" height="728" alt="2-Sales and performance" src="https://github.com/user-attachments/assets/702a91d3-ded6-4eca-852e-9fe4ad1cd985" />
+<img width="1296" height="728" alt="3-Customer behavior and perferences" src="https://github.com/user-attachments/assets/cb1bdc08-4793-481d-84fd-6ea6c6100ce8" />
+<img width="1301" height="727" alt="4-customer impact on delay and refund" src="https://github.com/user-attachments/assets/b21cdc23-adad-4366-bdcc-748672b9a472" />
+<img width="1295" height="730" alt="5-operational performance and punctuality" src="https://github.com/user-attachments/assets/bdf9b848-9841-45f6-ba1b-b1aa1df15399" />
+<img width="1289" height="723" alt="6-what if business scenarios" src="https://github.com/user-attachments/assets/3c14ca4a-3a07-42e5-9e8e-73a979ba8911" />
+<img width="1299" height="733" alt="1-home" src="https://github.com/user-attachments/assets/6158690a-9c28-4e39-b4fb-05b7a3c61d3f" />
+
+
+
+
 
 Example placeholder:  
 <a href=https://github.com/salehyasser310/UK-Railway-Dashboard/blob/main/1-home.PNG>Home</a> 
