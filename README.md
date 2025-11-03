@@ -12,7 +12,7 @@ To empower UK rail operators with a 360° view of revenue, punctuality, customer
 **Records:** 31,653 ticket transactions  
 **Format:** Excel (31K rows × 19 columns)  
 **Key Fields:** Transaction ID, Revenue, Delay Minutes, Payment Method, Ticket Class, Departure/Arrival Stations, Refund Request, Delay Reason  
-**Data Dictionary:** `railway_data_dictionary.xlsx`
+**Data Dictionary:**<a href="https://github.com/salehyasser310/UK-Railway-Dashboard/blob/main/railway_data_dictionary.xlsx"> `railway_data_dictionary.xlsx`</a>
 
 ---
 
