@@ -43,14 +43,6 @@ To empower UK rail operators with a 360° view of revenue, punctuality, customer
 <img width="1289" height="723" alt="6-what if business scenarios" src="https://github.com/user-attachments/assets/3c14ca4a-3a07-42e5-9e8e-73a979ba8911" />
 <img width="1299" height="733" alt="1-home" src="https://github.com/user-attachments/assets/6158690a-9c28-4e39-b4fb-05b7a3c61d3f" />
 
-
-
-
-
-Example placeholder:  
-<a href=https://github.com/salehyasser310/UK-Railway-Dashboard/blob/main/1-home.PNG>Home</a> 
-`/docs/dashboard_routes.png`
-
 ---
 
 ## Project Insights
@@ -77,7 +69,7 @@ Example placeholder:
 ## Files Included
 - `railway.xlsx` — Main dataset  
 - `railway_data_dictionary.xlsx` — Field definitions  
-- `report.pbix` — Power BI file (if under 100MB, else linked externally)  
+- `report.pbix` — Power BI file 
 - `/docs/` — Dashboard screenshots and visual exports  
 
 ---
