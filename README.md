@@ -38,7 +38,7 @@ To empower UK rail operators with a 360° view of revenue, punctuality, customer
 ## Dashboard Overview
 *(Screenshots to be added here once available)*  
 Example placeholder:  
-`/docs/dashboard_main.png`  
+<a href=https://github.com/salehyasser310/UK-Railway-Dashboard/blob/main/1-home.PNG>Home</a> 
 `/docs/dashboard_routes.png`
 
 ---
